@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  background: #091611;
+  color: #fbf6ec;
+  font: 18px/1.55 Outfit, "Segoe UI", sans-serif;
+}
+
+main {
+  max-width: 40rem;
+  margin: 0 auto;
+  padding: 2.5rem 1.4rem 4rem;
+}
+
+.brand {
+  margin: 0 0 0.35rem;
+  color: #e0c48a;
+  font-family: "Palatino Linotype", Palatino, serif;
+  font-style: italic;
+}
+
+nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 1rem;
+  margin: 0 0 1.6rem;
+}
+
+h1 {
+  font-family: "Palatino Linotype", Palatino, serif;
+  font-weight: 500;
+  font-size: 2.4rem;
+  line-height: 1.1;
+  margin: 0 0 1rem;
+}
+
+h2 {
+  font-family: "Palatino Linotype", Palatino, serif;
+  font-weight: 500;
+  font-size: 1.35rem;
+  margin: 1.6rem 0 0.4rem;
+}
+
+p, li { color: #f3ead8; }
+
+ul { padding-left: 1.2rem; }
+
+a { color: #e0c48a; }
